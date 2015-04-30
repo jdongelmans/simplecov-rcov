@@ -1,7 +1,7 @@
 .rvmrc
 .bundle
 /tmp
-
+.idea
 ## MAC OS
 .DS_Store
 
